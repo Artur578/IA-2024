@@ -1,17 +1,8 @@
-En la rama main se encuentra el proyeto 1
+#  En la rama main se encuentra el proyeto 1
 
-<<<<<<< HEAD
-=======
-videos practica 4:
-https://drive.google.com/file/d/1L0ExRfPyYFwm4-NPwjzbkCcQ9hPXc-dL/view?usp=sharing 
 
-https://drive.google.com/file/d/1wFfxRzrFpLqCZJ1QcXWy5v2-YWnaL6B6/view?usp=sharing 
 
-En la rama main se encuentra el proyeto 1
-
->>>>>>> f2729035e4211cdfbfc75ccdcd5936377fccb0ac
-
-#Proyecto 4
+# Proyecto 4
 
 # link de los videos
 https://drive.google.com/file/d/1L0ExRfPyYFwm4-NPwjzbkCcQ9hPXc-dL/view?usp=sharing 
@@ -23,7 +14,7 @@ https://drive.google.com/file/d/1wFfxRzrFpLqCZJ1QcXWy5v2-YWnaL6B6/view?usp=shari
 
 Este documento detalla cada paso realizado para implementar un modelo de lenguaje (LLM) utilizando herramientas como Ollama y AnythingLLM, desde la extracción de contenido en videos, scrapeo de páginas web, generación de embeddings, hasta la integración final en AnythingLLM.
 
----
+
 
 ## 1. Descarga de Videos y Conversión de Audio a Texto
 
@@ -234,7 +225,7 @@ En la siguiente imagen se muestra la interfaz de  AnythingLLM. donde podemos obs
      - `Ley_Poder_Judicial_tema_5.json`
    - Cada archivo tiene opciones para gestión como mover o eliminar.
 
-<<<<<<< HEAD
+
 
 
 ### En la siguiente imagen apreciamos todos los archivos json que cargamos a nuestro modelo
@@ -282,12 +273,6 @@ a continuacion en base a todo lo recolectado y a la informacion que me dio el mo
 
 ![Archivos json cargados en LLM](./evidencias/EvidenciasProyecto4/respuestas2.png)
 =======
-3. 
-
-### Etiqueta para Agregar Imágenes en Markdown
 
 
-```markdown
 
-![Archivos json cargados en LLM](./evidencias/EvidenciasProyecto4/LLM.png)
->>>>>>> f2729035e4211cdfbfc75ccdcd5936377fccb0ac
